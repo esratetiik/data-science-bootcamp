@@ -1,0 +1,29 @@
+Veri Okuma : Grafikler, tablolar ve diğer veri görselleştirme araçlarını doğru bir şekilde okuyabilmek.
+Veri Yorumlama : Verinin doğruluğunu da düşünerek farklı veri setleriyle harmanlayarak bir sonuç çıkarmak.
+Veri Analizi : Veriler üzerinde temel analizler yapabilmektir.
+
+Popülasyon : Tümünü kapsayan küme.
+Örneklem : Popülasyonun alt kümesi.
+    # Rastegele Örneklem : Her bireyin seçilme olasılığı eşit.
+    # Katmanlı Örneklem : Popülasyon farklı alt gruplara ayrılır ve her gruptan örneklem alınır.
+    # Küme Örneklem : Doğal kümelere ayrılır ve bazı kümelerden örneklem alınır.
+Gözlem Birimi : Verinin toplandığı en temel birim. Her satır bir gözlem birimidir.
+
+
+VERİ GÖRSELLEŞTİRME
+-------------------
+Veriler grafiksel formatta sunulur. Bu sayede veriler daha anlamlı ve ulaşılabilir olur.
+Bar Chart -> Çubuk Grafik
+Line Chart -> Çizgi Grafik
+Pie Chart -> Pasta Grafik
+Histogram
+Funnel Chart -> Huni Grafik
+Heat Map -> Isı Haritası
+Pin Map -> Nokta Harita 
+
+
+GRAFİK YORUMLAMA 
+----------------
+Ölçek Manipülasyonu : Ölçek değişikliği okuyucuları yanlış yönlendirebilir.
+Renklerin Dili : Genellikle ısı haritasında kullanılır. Yanlış renk seçimi okuyucuları yanlış yönlendirebilir. Koyu renkler daha yoğun alanlar için seçilir.
+Basitlik : En uygun grafik türü seçilmeli ki daha kolay veriler okunabilsin.
