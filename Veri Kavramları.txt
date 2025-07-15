@@ -1,0 +1,37 @@
+Veri toplama -> veri hazırlama -> veri analizi -> veri görselleştirme ->model oluşturma -> izleme ve bakım
+
+Sağlık, perakende, finans, ulaşım, spor sektöründe veri bilimi kullanılır. 
+
+
+Veri: üzerinde işlem yapılmamış ham parçacık.
+Veriler tek başına anlam ifade etmez.
+DIKW Piramidi (Data, Information, Knowledge, Wisdom) : Verinin dönüşümünü açıklar. 
+1.Aşama -> Ham, işlenmemiş parça.
+2.Aşama -> Verinin organize edilmesi ve anlamlandırılması sürecidir.
+3.Aşama -> Birden fazla bilginin bir araya gelerek yorumlanması sürecidir. 
+4.Aşama -> 3.aşamanın sonuçlarının neden ve sonuç ilişkisiyle detaylı yorumlanmasıdır.
+Piramidin her aşamasında veri daha fazla anlam kazanır.
+
+VERİ ÇEŞİTLERİ 
+--------------
+1) Structured Data: Belirli bir formatta organize edilmiş verilerdir.
+2) Semi-Structured Data: Hem yapılandırılmış hem de yapılandırılmamış verilerdir. (XML, JSON)
+3) Unstructured Data: Belirli bir formatta olmayan, organize edilmemiş verilerdir.
+
+VERİ YÖNETİMİ 
+-------------
+11 farklı alandan oluşur.
+1.Data Modelling & Dssing : Veriden nasıl anlam çıkartacağı belirlenip ihtiyaçlar doğrultusunda model oluşturulur.
+2.Data Storage & Operations : Verinin nereye, nasıl ve ne kadar süreyle depolanacağını belirtir.
+3.Data Security : Verinin sadece ulaşması gereken kişilerce görüntülenmesini sağlar.
+4.Data Integration : Çeşitli kaynaklardan gelen veriyi hareket ettirme, toplama ve birleştirme aşamasıdır.
+5.Documents & Content : Yapılandırılmamış verilerin saklanması süreci.
+6.Reference & Master Data : Şirket için kritik olan verilerin korunması süreci.
+7.DWH & BI : Çeşitli kaynaklardan gelen verilerin raporlara dönüştüğü katmandır.
+8.Metadata : Şirket içindeki verilerin takip edildiği katmandır.
+9. Data Quality : En önemli. Tüm raporların doğruluğı kontrol edilir.
+10.Data Architecture : Şirketlerin kaynaklar arasındaki veri transferini sağlar.
+11.Data Governance : Bütün disiplinleri birbiriyle iletişim halinde tutan alandır. 
+
+
+DMBOK PİRAMİDİ : Veri yönetimi ekiplerinin sorumluluklarını ayrıştıran ve yöneten piramittir.
