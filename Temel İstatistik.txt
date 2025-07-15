@@ -1,0 +1,20 @@
+İstatistik : Veriyi toplama, analiz etme, yorumlama ve sunma.
+     Betimsel İstatistik : Verilerin özetlenmesi, organize edilmesi ve sunulması.
+     Çözümsel İstatistik : Bir örneklemden çıkarılan bilgilerle popülasyon hakkında tahmin yapma.
+
+Merkezi Eğilim Ölçümleri : Bir veri kümesinin genel eğilimlerini anlamaya yardımcı olan istatiksel göstergelerdir.
+Dağılım Ölçümleri : Bir veri kümesinin nasıl dağıldığını anlamak için kullanılan istatiksel gösterge.
+    Varyans : Bir kümedeki değerlerin ortalamadan ne kadar uzaklaştığını belirtir.
+    Standart Sapma : Veri setinin ne kadar dağıldığını gösterir.
+
+Olasılık Teorisi : Bir olayın gerçekleşme olasılığını hesaplamada kullanılır.
+Rassal Değişken : Bir deneyin her sonucunun bir sayısal değere dayanması.
+Olasılık Dağılımı : Bir rastgele değişkenin alabileceği değerlerin ve bu değerlerin olasılıklarının sistematik bir şekilde tanımlandığı fonksiyondur.
+
+HİPOTEZ TESTLERİ
+-----------------
+Null Hipotez : Hipotezi kabul eder.
+Alternatif Hipotez : İddayı reddeder.
+
+T-Testi : 30'dan küçük örneklem kümelerinde kullanılır.
+Z-Testi : Büyük örneklem kümelerinde kullanılır.
