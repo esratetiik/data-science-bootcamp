@@ -1,0 +1,64 @@
+Verinin Yaşam Döngüsü
+---------------------
+1.Veri Üretimi 
+2.Veri Toplama
+3.Veri Ön İşleme
+4. Veri Depolama
+5.Veri Yönetimi
+6.Veri Analizi
+7.Veri Görselleştirme
+8.Veri Yorumlama
+
+
+
+VERİ ÜRETİMİ
+------------
+Verilerin üretildiği aşamadır. 
+Yapısal veri, yapısal olmayan veri ve yarı yapısal veri olarak üçe ayrılır.
+Sentetik Veri Üretimi : Gerçek dünyadaki verilerden türetilmeyen, yapay olarak oluşturulmuş verilerdir.
+İnsan Kaynaklı Veriler / Makine Kaynaklı Veriler
+
+
+VERİ TOPLAMA 
+------------
+Üretim aşamasında oluşturulan verilerin belirli bir amaç doğrultusunda bir araya getirilmesidir.
+Verilerin nereden, nasıl ve hangi araçlarla toplanacağını belirler.
+Veritabanlarından Veri Toplama : Veriler, SQL veya NoSQl veritabanlarından sorgular aracılığıyla alınır.Büyük ölçekli veriler için idealdir.
+Dosyalardan Veri Toplama : Veriler, CSV, Excel veya benzeri dosya formatlarından alınır.
+Web Scraping : Veriler web sitesi üzerinden alınır.
+API Tabanlı Veri Toplama : API, belirli bir sistem veya uygulamadan veri almak için kulanılan arayüzlerdir. Verileri gerçek zamanlı veya periyodik olarak toplamak için etkili bir yöntemdir.
+
+
+VERİ ÖN İŞLEME 
+--------------
+Toplanan veriyi anlamlı ve kullanışlı hale getirmek için uygulanan işlemlerdir.
+Veri Temizleme :  Hatalar, eksiklikler giderilir, gereksiz veriler çıkarılır, yanlış veriler düzeltilir.
+Veri Standardizasyonu : Farklı tipteki verilerin aynı formata getirilmesidir.
+Veri Zenginleştirme : Verilerin birleştirilmesi, anlamlı şekilde entegre edilmesidir.
+Veri Azaltma : Veri seti çok büyük olduğunda minimum bilgi kaybıyla gereksiz verilerin çıkarılmasıdır.
+Veri Kalitesi : Veriler; doğruluk, tamlık, tutarlılık, zamanlılık ve geçerlilik ilkelerine uyması gerekir.
+
+VERİ DEPOLAMA
+-------------
+Veriler analiz için hazır hale getirildikten sonra güvenli bir şekilde depolanmalıdır. Hem ham veri hem de işlenen veri ayrı ayrı depolanmalıdır. 
+Veri saklama, veri yönetimi, veri yedekleme aşamalarından oluşur. 
+
+VERİ ANALİZİ 
+------------
+Ön işlemden geçmiş verileri inceleyerek anlamlı bilgi ve içgörüler elde etme sürecidir.
+
+
+KEŞİFSEL VERİ ANALİZİ
+---------------------
+Verinin yapısını, özelliklerini ve ilişkilerini anlamak için kullanılır.
+Veri setini anlamak, hipotez oluşturmak, veri kalitesini değerlendirmek amaçları arasındadır.
+
+EDA Adımları
+-----------
+Veri seti içeriğine bakmak  - head() , tail()
+Veri seti boyutunu satır ve sütun olarak incelemek - shape ()
+Veri seti sütunları hakkında bilgi almak - info ()
+Özet istatistiklerinin çıkartılması - describe ()
+Kaç adet Null değeri var - isnull().sum()
+Her sütunun yapısına özel grafik görselleştirme yapmak
+
